@@ -55,6 +55,7 @@ namespace MetodyGit1
             }
         }
         //Metoda nejmladsi vyhleda nejmladsiho cloveka a vypise do messageboxu
+        //Metoda nejmladsi pekne doplnuje program a funguje
         private void button1_Click(object sender, EventArgs e)
         {
             DateTime prvni = DateTime.Parse(textBox1.Text);
